@@ -8,4 +8,4 @@ The script estimates the number of individual coin flips necessary to successful
 
 ## Usage
 
-Open coin-flips.html in a browser. Open the JavaScript console to see the results.
+Open coin_flips.html in a browser. Open the JavaScript console to see the results.
